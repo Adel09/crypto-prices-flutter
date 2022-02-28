@@ -1,16 +1,12 @@
-# crypto_prices
+<h1>crypto_prices</h1>
+<hr>
+<p>A crypto history app from an API</p>
+<p>Crypto prices app built with flutter. Current prices are pulled from the Coin Gecko API. Uses Cubit for state management.</p>
+<p>Built as a development task for the Symfonia flutter internship</p>
+<p>Technologies used: Cubit, flutter_bloc, Coin Gecko API</p>
+<p></p><br>
+<h3>Images: </h3>
+<hr>
+<img width="1440" alt="Screenshot 2022-02-28 at 5 00 43 PM" src="https://user-images.githubusercontent.com/18511990/156016677-1da6ca2b-87a2-44c2-8462-1073f132e0ac.png"><br>
 
-A crypto history app from an API
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
